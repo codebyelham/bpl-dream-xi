@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://www.tigercricket.com.bd/images/2025/06/1834883128483094.jpg",
+    "player_name": "Mehidy Hasan Miraz",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 91,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 75000
+  },
+  {
+    "player_image": "https://images.news18.com/ibnlive/uploads/2023/08/mohammad-naim-sheikh-twitter-feature.jpg",
+    "player_name": "Mohammad Naim",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 84,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "price": 35000
+  },
+  {
+    "player_image": "https://i.pinimg.com/736x/af/27/b2/af27b2c89f840b3d17639d0654994989.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "rating": 94,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 80000
+  },
+  {
+    "player_image": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/70206.png",
+    "player_name": "Tanzid Hasan Tamim",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 81,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "price": 28000
+  },
+  {
+    "player_image": "https://static-files.cricket-australia.pulselive.com/headshots/440/3728-camedia.png",
+    "player_name": "Khushdil Shah",
+    "player_country": "Pakistan",
+    "player_role": "All-rounder",
+    "rating": 87,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "price": 55000
+  },
+  {
+    "player_image": "https://static-files.cricket-australia.pulselive.com/headshots/440/544-camedia.png",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 89,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "price": 78000
+  },
+  {
+    "player_image": "https://static-files.cricket-australia.pulselive.com/headshots/440/549-camedia.png",
+    "player_name": "Mohammad Mithun",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman/Wicket-keeper",
+    "rating": 76,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "price": 22000
+  },
+  {
+    "player_image": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/66833.png",
+    "player_name": "Shaheen Afridi",
+    "player_country": "Pakistan",
+    "player_role": "Bowler",
+    "rating": 95,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "price": 90000
+  },
+  {
+    "player_image": "https://i.pinimg.com/736x/2c/31/01/2c31015d1d3df874992d5f90c4d9c1ab.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 93,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "price": 85000
+  },
+  {
+    "player_image": "https://static-files.cricket-australia.pulselive.com/headshots/440/1087-camedia.png",
+    "player_name": "Nurul Hasan Sohan",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman/Wicket-keeper",
+    "rating": 78,
+    "bating_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "price": 40000
+  },
+  {
+    "player_image": "https://static-files.cricket-australia.pulselive.com/headshots/440/638-camedia.png",
+    "player_name": "Imrul Kayes",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 72,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "price": 30000
+  },
+  {
+    "player_image": "https://nclcricket.com/wp-content/uploads/2024/07/Dawid-Malan.png",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "player_role": "Batsman",
+    "rating": 85,
+    "bating_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "price": 60000
+  }
+]
